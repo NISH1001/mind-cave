@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nish Mind-Cave
+title: Mind-Cave
 subtitle: Thoughts about the world projected from mind-cave
 use-site-title: true
 ---
@@ -20,6 +20,13 @@ use-site-title: true
 
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
+    {% if post.last_edited_on %}
+        <br/>
+        Last Edited on {{ post.last_edited_on | date: site.date_format }}
+    {% endif %}
+    <br/>
+    {% include read_time.html text=post.content %} read
+    <br/>
     </p>
 
     <div class="post-entry-container">

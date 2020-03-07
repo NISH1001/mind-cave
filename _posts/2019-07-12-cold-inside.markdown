@@ -8,6 +8,8 @@ tags: poetry love life thoughts
 subtitle: "It's raining the whole day. I asked her out for coffee but couldn't meet. Due to rain the plan was cancelled. Our ending is coming soon. It's inevitable. Life's like that. :)"
 comments: true
 header-img: "img/post-headers/2019-07-12-cold-inside.jpg"
+image: img/post-headers/2019-07-12-cold-inside.jpg
+bigimg: img/post-headers/2019-07-12-cold-inside.jpg
 ---
 
 ![Nowhere-Somewhere](/img/post-headers/2019-07-12-cold-inside.jpg){:class="paradox-center"}  

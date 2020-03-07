@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Nish Mind-Cave
+title: Mind-Cave
 
 # Short description of your site
 description: All thoughts projected from my mind-cave
@@ -21,6 +21,7 @@ description: All thoughts projected from my mind-cave
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tags: "/tags"
   Resources:
     - Bits and Paradoxes: "https://www.nishanpantha.com.np/"
   Author's home: "https://www.nishanpantha.com.np/"

@@ -48,7 +48,7 @@
             {{ page.last_edited_on| date: "%B %-d, %Y" }}
             {% endif %}
             <br/>
-            {% include read_time.html text=content %} read
+            {% include read_time.html text=page.content %} read
         </span>
 		  {% endif %}
 		</div>
@@ -86,7 +86,7 @@
                 {{ page.last_edited_on| date: "%B %-d, %Y" }}
                 {% endif %}
                 <br/>
-                {% include read_time.html text=content %} read
+                {% include read_time.html text=page.content %} read
             </span>
 		  {% endif %}
         </div>
