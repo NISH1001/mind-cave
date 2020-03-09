@@ -12,7 +12,7 @@ image: "img/post-headers/2019-07-19-alienation.jpg"
 bigimg: "img/post-headers/2019-07-19-alienation.jpg"
 ---
 
-![Hanging By The Wire](/img/post-headers/2019-07-19-alienation.jpg){:class="paradox-center"}  
+![Hanging By The Wire]({{site.baseurl}}/img/post-headers/2019-07-19-alienation.jpg){:class="paradox-center"}  
 *Hanging By The Wire - Picture taken by me (Paradox)*
 
 <hr/>

@@ -39,7 +39,7 @@ Remember. Just remember. That was a decade ago. Fast forward to few years into t
 Your very first day of engineering and you were still as puzzled as you are now — feeling fear and excitement to this new chapter of your life.
 Remember the time when you thought you knew things, and realized that knowledge is just a pre-fetched illusion that would get lost if not given proper care? Remember the time when you were rendered hopeless on subjects that didn't interest you? Remember the time when you went underground to improve your own **self**?  
 
-![generative-art](/img/post-headers/2019-06-16-remembrance.jpg){:class="paradox-center"}  
+![generative-art]({{site.baseurl}}/img/post-headers/2019-06-16-remembrance.jpg){:class="paradox-center"}  
 *A generative art from my library Panim[1]*
 
 

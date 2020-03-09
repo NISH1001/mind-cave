@@ -12,7 +12,7 @@ image: "img/post-headers/2019-06-21-nowhere-somewhere.jpg"
 bigimg: "img/post-headers/2019-06-21-nowhere-somewhere.jpg"
 ---
 
-![Nowhere-Somewhere](/img/post-headers/2019-06-21-nowhere-somewhere.jpg){:class="paradox-center"}  
+![Nowhere-Somewhere]({{site.baseurl}}/img/post-headers/2019-06-21-nowhere-somewhere.jpg){:class="paradox-center"}  
 *On June 20, 2019, when the clock hits 5:15pm in my mobile, when I am all by myself*
 
 
@@ -36,7 +36,7 @@ This solitude is eternal. I know. I have been like this ever since I knew what e
 
 #### 5:37 PM
 
-![Panorama](/img/post-images/2019-06-21-nowhere-somewhere/1.jpg){:class="paradox-center"}  
+![Panorama]({{site.baseurl}}/img/post-images/2019-06-21-nowhere-somewhere/1.jpg){:class="paradox-center"}  
 *Panorama*
 
 
@@ -50,7 +50,7 @@ I wonder what it is like to be me in future. Will I appreciate the solitude? Thi
 As I surrender to this shadowy figure of the tree, like an apparition of some kind, I see the reflections of 3 birds on the ripples. It’s like some form of dimension where the world is trapped beneath. As if the birds are trying to escape. Maybe, there’s another parallel world under that mirror, down there.
 
 #### 5:55 PM
-![Somewhere](/img/post-images/2019-06-21-nowhere-somewhere/2.jpg){:class="paradox-center"}  
+![Somewhere]({{site.baseurl}}/img/post-images/2019-06-21-nowhere-somewhere/2.jpg){:class="paradox-center"}  
 *Somewhere*
 
 
@@ -61,7 +61,7 @@ There's a guy not far away with a bag on his back. I wish he’s waiting for his
 Dogs are howling at the far corner of the canvas. Maybe they are singing my name. Maybe not. I should invent the device that enables communication with animals, just like in the [movie up](https://en.wikipedia.org/wiki/Up_(2009_film)){:class="paradox"}.
 
 
-![People and Chaos](/img/post-images/2019-06-21-nowhere-somewhere/3.jpg){:class="paradox-center"}  
+![People and Chaos]({{site.baseurl}}/img/post-images/2019-06-21-nowhere-somewhere/3.jpg){:class="paradox-center"}  
 *People, Emotions, Feelings and Chaos*
 
 

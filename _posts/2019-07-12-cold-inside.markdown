@@ -12,7 +12,7 @@ image: img/post-headers/2019-07-12-cold-inside.jpg
 bigimg: img/post-headers/2019-07-12-cold-inside.jpg
 ---
 
-![Nowhere-Somewhere](/img/post-headers/2019-07-12-cold-inside.jpg){:class="paradox-center"}  
+![Nowhere-Somewhere]({{site.baseurl}}/img/post-headers/2019-07-12-cold-inside.jpg){:class="paradox-center"}  
 *It's cloudy and dark and raining*
 
 <hr/>

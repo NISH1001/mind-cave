@@ -12,7 +12,7 @@ image: "img/post-headers/2019-11-11-silence-of-rain.jpg"
 bigimg: "img/post-headers/2019-11-11-silence-of-rain.jpg"
 ---
 
-![Gradients](/img/post-headers/2019-11-11-silence-of-rain.jpg){:class="paradox-center"}  
+![Gradients]({{site.baseurl}}/img/post-headers/2019-11-11-silence-of-rain.jpg){:class="paradox-center"}  
 *Our existence is like these little drops of rain.* 
 
 <hr/>

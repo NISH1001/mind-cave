@@ -12,7 +12,7 @@ image: "img/post-headers/2019-07-03-kafkaesque.jpg"
 bigimg: "img/post-headers/2019-07-03-kafkaesque.jpg"
 ---
 
-![Nowhere-Somewhere](/img/post-headers/2019-07-03-kafkaesque.jpg){:class="paradox-center"}  
+![Nowhere-Somewhere]({{site.baseurl}}/img/post-headers/2019-07-03-kafkaesque.jpg){:class="paradox-center"}  
 *Picture extracted from [https://www.youtube.com/watch?v=wkPR4Rcf4ww](https://www.youtube.com/watch?v=wkPR4Rcf4ww)*
 
 <hr/>
@@ -27,7 +27,7 @@ The dogs howl indefinitely outside. The lights try to surrender to the glazes of
 He writes. He writes again. Words after words. Sentences after sentences. And still, the emptiness persists like a relaxed beat from his heart that will attenuate soon, if not forever. The dogs keep on howling like some type of demonic ritual, calling forth the ever-growing anxieties within him. That’s how life is supposed to be for him and he feels he is no different than others. There’s nothing special about anyone and that is what makes everyone special.
 
 
-![Bizarre World](/img/post-images/2019-07-03-kafkaesque/fuzzy-world.jpg){:class="paradox-center"}  
+![Bizarre World]({{site.baseurl}}/img/post-images/2019-07-03-kafkaesque/fuzzy-world.jpg){:class="paradox-center"}  
 *The world is bizarre*  
 
 

@@ -12,7 +12,7 @@ image: "img/post-headers/2019-07-23-repetition.jpg"
 bigimg: "img/post-headers/2019-07-23-repetition.jpg"
 ---
 
-![Hanging By The Wire](/img/post-headers/2019-07-23-repetition.jpg){:class="paradox-center"}  
+![Hanging By The Wire]({{site.baseurl}}/img/post-headers/2019-07-23-repetition.jpg){:class="paradox-center"}  
 *Rush Hours as time streams itself*
 
 <hr/>

@@ -12,7 +12,7 @@ image: "img/post-headers/2019-10-01-imperfections.jpg"
 bigimg: "img/post-headers/2019-10-01-imperfections.jpg"
 ---
 
-![Gradients](/img/post-headers/2019-10-01-imperfections.jpg){:class="paradox-center"}  
+![Gradients]({{site.baseurl}}/img/post-headers/2019-10-01-imperfections.jpg){:class="paradox-center"}  
 *Gradients* 
 
 <hr/>

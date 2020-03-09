@@ -12,7 +12,7 @@ image: "img/post-headers/2019-08-07-inevitableness-life.jpg"
 bigimg: "img/post-headers/2019-08-07-inevitableness-life.jpg"
 ---
 
-![Let It Be](/img/post-headers/2019-08-07-inevitableness-life.jpg){:class="paradox-center"}  
+![Let It Be]({{site.baseurl}}/img/post-headers/2019-08-07-inevitableness-life.jpg){:class="paradox-center"}  
 *Let It Be*
 
 <hr/>

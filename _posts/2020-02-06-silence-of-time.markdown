@@ -12,7 +12,7 @@ image: "img/post-headers/2020-02-06-silence-of-time.jpg"
 bigimg: "img/post-headers/2020-02-06-silence-of-time.jpg"
 ---
 
-![Desires Burning In The Sky](/img/post-headers/2020-02-06-silence-of-time.jpg){:class="paradox-center"}  
+![Desires Burning In The Sky]({{site.baseurl}}/img/post-headers/2020-02-06-silence-of-time.jpg){:class="paradox-center"}  
 *Desires Burning In The Sky* 
 
 <hr/>

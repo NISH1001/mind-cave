@@ -12,7 +12,7 @@ image: "img/post-headers/2020-01-15-thoughts-2019.jpg"
 bigimg: "img/post-headers/2020-01-15-thoughts-2019.jpg"
 ---
 
-![Harvest Moon](/img/post-headers/2020-01-15-thoughts-2019.jpg){:class="paradox-center"}  
+![Harvest Moon]({{site.baseurl}}/img/post-headers/2020-01-15-thoughts-2019.jpg){:class="paradox-center"}  
 *Friday The 13th, 2019 - Day of Harvest Moon. It's a special night for me. :)* 
 
 <hr/>
