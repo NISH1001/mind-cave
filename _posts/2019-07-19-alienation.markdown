@@ -18,7 +18,7 @@ bigimg: "img/post-headers/2019-07-19-alienation.jpg"
 <hr/>
 
 Life is weirdly difficult for me to love. Despite me preaching about "self-love", improvement and 
-[breaking out of the loop](/writing/breaking-out-of-loop.html) shit, the joke's on me always.  
+[breaking out of the loop]({{site.baseurl}}/writing/breaking-out-of-loop.html) shit, the joke's on me always.  
 
 I am again reminded of a quote from [Watchmen](https://en.wikipedia.org/wiki/Watchmen):
 
@@ -28,7 +28,7 @@ I am again reminded of a quote from [Watchmen](https://en.wikipedia.org/wiki/Wat
 This has always been the case with me. I don't know what you feel about me and all these abstract things I write, mostly about life and how bizarre a life can be. But just know that there's always a story beneath a fake smile. There's some seriousness going down within a sarcasm, especially when life is nothing but a big satire to you. I know, you have your own struggles and every struggle is as important as others. But then, as an individual, people are biased towards thinking that their struggles are the greatest one and wished they could live someone else's life. If only they could swap life with others. But that's just a coping mechanism to the ever-increasing dark side of their mind-cave.  
 
 For me, it's simple: life is a synonym to miseries and struggles. Yes! No matter how much you preach about someone else's goals, ambitions and giving supervision on their paths, you are always the one to contemplate on how much suffering you really have. How much lost you are. Let alone you might not even have some definite goals. That can't be neglected, even if you are in isolation of some kind. Your family thinks you are sitting in front of the screen, staring into the void, doing nothing. And then there's your mind-cave. It is so fucking bizarre that sometimes you feel cringy to even put a step into its door. But then, it's yours. Just know that there reside many zones within this mind-cave of yours that I have been writing some serious shit relating to this for a year now (and it has got more than 20 fucking pages). I am not even going to talk about 
-[disappointment](/writing/disappointment.html) this time, because that's inevitable in some ways. This time, it's about how much understanding you are felt by the people around. You are here trying to find yourself among these words I have written, for whom you might even try to sympathize upon. Maybe you are here in all seriousness to think that my life is a matter of case-study. Just know that every life is a matter of significance given enough observation to look upon, details upon details.  
+[disappointment]({{site.baseurl}}/writing/disappointment.html) this time, because that's inevitable in some ways. This time, it's about how much understanding you are felt by the people around. You are here trying to find yourself among these words I have written, for whom you might even try to sympathize upon. Maybe you are here in all seriousness to think that my life is a matter of case-study. Just know that every life is a matter of significance given enough observation to look upon, details upon details.  
 
 Alienation. That's what it is right now in my mind. You might understand that too. I know. You are also alienated in some ways, in some forms. I just know that and I am here among these combinations of letters that are typed with pressing chains of events that have been unfolding throughout my uncanny life. Whether you believe or not, alienation has been the hardest zone in your mind-cave, in my mind-cave. You feel lost for which you try to put abstractions onto. But abstractions are leaky no matter how insignificant they are. The world might even preach to not take life seriously. But that might just be hyperbole, an abstract frivolous statement imposed by the world. No matter what sort of words, thought processes, speeches you come across, they all converge to an asymptote — life's full of miseries and struggles. That's inevitable.  
 
@@ -49,6 +49,6 @@ Whatever it is, let me impose the only question in my life that I feel satisfied
 - [Carl Jung and The Shadow](https://www.youtube.com/watch?v=nI-Ko-d29X4&t=314s){:class="paradox"}
 - [Seneca: On Shortness of Life](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/){:class="paradox"}
 - [Plato's Allegory of The Cave](https://www.youtube.com/watch?v=SWlUKJIMge4){:class="paradox"}
-- [Kafkaesque](/writing/kafkaesque.html){:class="paradox"}
+- [Kafkaesque]({{site.baseurl}}/writing/kafkaesque.html){:class="paradox"}
 - [If a Tree Falls In a Forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest){:class="paradox"}
 

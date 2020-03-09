@@ -43,5 +43,5 @@ You are like a mirror mirroring a mirror. The loop continues indefinitely. But y
 - [Philosophy of Walking](https://fs.blog/2014/05/a-philosophy-of-walking/){:class="paradox"}
 - [You Are a Strange Loop](https://www.youtube.com/watch?v=hQsnHkfs3sA){:class="paradox"}
 - [Stoicism](https://www.artofmanliness.com/articles/5-ancient-stoic-tactics-modern-life/){:class="paradox"}
-- [Breaking Out of Loop](/writing/breaking-out-of-loop.html){:class="paradox"}
+- [Breaking Out of Loop]({{site.baseurl}}/writing/breaking-out-of-loop.html){:class="paradox"}
 - [The Truth is Terrible](https://www.the-tls.co.uk/articles/public/friedrich-nietzsche-truth-terrible/){:class="paradox"}

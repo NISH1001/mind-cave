@@ -147,6 +147,6 @@ Then you can unleash that rage!
   
   
 ## Other Poems I Wrote
-- [Tonight](/poetry/tonight.html){:class="paradox"}
-- [Sometimes](/poetry/sometimes.html){:class="paradox"}
-- [Haunted Streets](/poetry/haunted-streets.html){:class="paradox"}
+- [Tonight]({{site.baseurl}}/poetry/tonight.html){:class="paradox"}
+- [Sometimes]({{site.baseurl}}/poetry/sometimes.html){:class="paradox"}
+- [Haunted Streets]({{site.baseurl}}/poetry/haunted-streets.html){:class="paradox"}

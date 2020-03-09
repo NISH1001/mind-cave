@@ -66,7 +66,7 @@ As her memories intoxicate me
 
 
 ## Other Cold (Moderately Warm) Things
-- [Tonight](/poetry/tonight.html){:class="paradox"}
-- [Kafkaesque](/writing/kafkaesque.html){:class="paradox"}
+- [Tonight]({{site.baseurl}}/poetry/tonight.html){:class="paradox"}
+- [Kafkaesque]({{site.baseurl}}/writing/kafkaesque.html){:class="paradox"}
 - [The Crunch - Charles Bukowski](https://www.youtube.com/watch?v=Sx1RdK8IzSU){:class="paradox"}
 - [My Favourites from DeviantArt](https://www.deviantart.com/nishparadox/favourites/){:class="paradox"}

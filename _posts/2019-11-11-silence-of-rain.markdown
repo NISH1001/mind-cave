@@ -37,5 +37,5 @@ I guess I have to discontinue from this flow of words. I believe sometimes the f
 - [The Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis){:class="paradox"}
 - [A Guide To Worrying](https://www.youtube.com/watch?v=k5RH3BdXDOY){:class="paradox"}
 - [Lessons from A Late-Bloomer](https://medium.com/@Steven_Z/late-bloomers-fece788db69b){:class="paradox"}
-- [Nowhere and Somewhere](/writing/nowhere-somewhere.html){:class="paradox"}
+- [Nowhere and Somewhere]({{site.baseurl}}/writing/nowhere-somewhere.html){:class="paradox"}
 - [Look On Down From The Bridge - Mazzy Star](https://www.youtube.com/watch?v=g41FFmNU66U){:class="paradox"}

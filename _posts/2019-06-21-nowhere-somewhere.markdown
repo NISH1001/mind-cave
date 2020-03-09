@@ -69,7 +69,7 @@ My mind is being distracted to the conversation of these two persons sitting rig
 
 As my favourite person [Alan Watts](https://medium.com/@OshanJarow/alan-watts-on-the-hubris-of-formal-spiritual-practice-753e99dc05ef){:class="paradox"} says:  
 
-> Who you really are, you almost have to go by yourself. Stop talking. Stop thinking words and be absolutely alone. Listen to the great [silences](http://localhost:4000/writing/echoes-and-silences.html){:class="paradox"}. Then if you’re lucky, you’ll recover from the illusion that you’re just small me and so and so.
+> Who you really are, you almost have to go by yourself. Stop talking. Stop thinking words and be absolutely alone. Listen to the great [silences]({{site.baseurl}}/writing/echoes-and-silences.html){:class="paradox"}. Then if you’re lucky, you’ll recover from the illusion that you’re just small me and so and so.
 
 This is my time today. This is me just being myself without any external forces. There’s bliss in solitude. There’s no love like self-love. After all, “self” is what matters. The Self Is Contagious.
 

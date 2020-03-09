@@ -143,4 +143,4 @@ Maybe that's how our lives are. You are *you* to your fullest. As, Alan Watts sa
 - [Pocket - This has been my go-to platform for reading](https://app.getpocket.com/){:class="paradox"}
 - [Am I Happy At Work? - Analyzing my entire career from day 0](https://www.trackinghappiness.com/happy-at-work/){:class="paradox"}
 - [This Hacker News Thread](https://news.ycombinator.com/item?id=18003651){:class="paradox"}
-- [Choices](/writing/choices.html){:class="paradox"}
+- [Choices]({{site.baseurl}}/writing/choices.html){:class="paradox"}
