@@ -8,6 +8,8 @@ tags: writing life
 subtitle: "Imperfections shape us. Imperfections follow us around wherever we roam. And it is always entailed by the struggles in our lives. Struggles shape us too."
 comments: true
 header-img: "img/post-headers/2019-10-01-imperfections.jpg"
+image: "img/post-headers/2019-10-01-imperfections.jpg"
+bigimg: "img/post-headers/2019-10-01-imperfections.jpg"
 ---
 
 ![Gradients](/img/post-headers/2019-10-01-imperfections.jpg){:class="paradox-center"}  

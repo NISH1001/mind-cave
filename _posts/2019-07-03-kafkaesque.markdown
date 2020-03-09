@@ -8,6 +8,8 @@ tags: writing life kafka
 subtitle: "The world is bizarre, especially when you have to face the bureaucratic nature of reality itself. Everywhere you go, you feel you are tamed by the system, chaining you time and again like someone is holding up a vicious monster inside a cave. You are caged no matter how free you feel."
 comments: true
 header-img: "img/post-headers/2019-07-03-kafkaesque.jpg"
+image: "img/post-headers/2019-07-03-kafkaesque.jpg"
+bigimg: "img/post-headers/2019-07-03-kafkaesque.jpg"
 ---
 
 ![Nowhere-Somewhere](/img/post-headers/2019-07-03-kafkaesque.jpg){:class="paradox-center"}  

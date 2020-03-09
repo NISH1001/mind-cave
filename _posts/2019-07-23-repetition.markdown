@@ -8,6 +8,8 @@ tags: writing life people
 subtitle: "Life seems to be stuck in a loop of some form. Your existence cannot get out of it."
 comments: true
 header-img: "img/post-headers/2019-07-23-repetition.jpg"
+image: "img/post-headers/2019-07-23-repetition.jpg"
+bigimg: "img/post-headers/2019-07-23-repetition.jpg"
 ---
 
 ![Hanging By The Wire](/img/post-headers/2019-07-23-repetition.jpg){:class="paradox-center"}  
@@ -18,7 +20,7 @@ header-img: "img/post-headers/2019-07-23-repetition.jpg"
 
 Repetition. This zone. This is one of the most boring regions you can ever get trapped into. 
 
-Repetition. Same old shit. It’s like you are in a loop; loop you feel someday get centrifuged by, overthrown by. And suddenly you will wake up to this [kafkaesque](http://www.nishanpantha.com.np/writing/kafkaesque.html) nightmare. Ending to realize that reality is in loop.
+Repetition. Same old shit. It’s like you are in a loop; loop you feel someday get centrifuged by, overthrown by. And suddenly you will wake up to this [kafkaesque](/writing/kafkaesque.html) nightmare. Ending to realize that reality is in loop.
 
 Sometimes. Sometimes you really hit the limit of what you can comprehend. Sometimes you feel your life has been lacking certain excitement to make you feel alive. 
 

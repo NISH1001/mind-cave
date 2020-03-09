@@ -8,6 +8,8 @@ tags: writing life solitude self
 subtitle: "There's bliss in solitude. There's no love like self-love. After all, 'self' is what matters. The Self Is Contagious."
 comments: true
 header-img: "img/post-headers/2019-06-21-nowhere-somewhere.jpg"
+image: "img/post-headers/2019-06-21-nowhere-somewhere.jpg"
+bigimg: "img/post-headers/2019-06-21-nowhere-somewhere.jpg"
 ---
 
 ![Nowhere-Somewhere](/img/post-headers/2019-06-21-nowhere-somewhere.jpg){:class="paradox-center"}  

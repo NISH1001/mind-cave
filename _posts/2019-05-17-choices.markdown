@@ -8,6 +8,8 @@ tags: writing life choices determinism
 subtitle: "Maybe life is all about choices, goals, wishes, and changes."
 comments: true
 header-img: "img/post-headers/2019-05-17-choices.jpg"
+image: "img/post-headers/2019-05-17-choices.jpg"
+bigimg: "img/post-headers/2019-05-17-choices.jpg"
 ---
 { Header picture: Captured by Me at Sauraha, Chitwan dated around July, 2018 }
 

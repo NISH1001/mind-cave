@@ -8,6 +8,8 @@ tags: writing life existence
 subtitle: "You are really strange. You are a strange loop."
 comments: true
 header-img: "img/post-headers/2019-06-06-strange-loop.jpg"
+image: "img/post-headers/2019-06-06-strange-loop.jpg"
+bigimg: "img/post-headers/2019-06-06-strange-loop.jpg"
 ---
 
 I don't know why I feel empty today. Today was a good "stressful" day for me. Met **Aurora** without any plans. 
@@ -41,5 +43,5 @@ You are like a mirror mirroring a mirror. The loop continues indefinitely. But y
 - [Philosophy of Walking](https://fs.blog/2014/05/a-philosophy-of-walking/){:class="paradox"}
 - [You Are a Strange Loop](https://www.youtube.com/watch?v=hQsnHkfs3sA){:class="paradox"}
 - [Stoicism](https://www.artofmanliness.com/articles/5-ancient-stoic-tactics-modern-life/){:class="paradox"}
-- [Breaking Out of Loop](http://www.nishanpantha.com.np/writing/breaking-out-of-loop.html){:class="paradox"}
+- [Breaking Out of Loop](/writing/breaking-out-of-loop.html){:class="paradox"}
 - [The Truth is Terrible](https://www.the-tls.co.uk/articles/public/friedrich-nietzsche-truth-terrible/){:class="paradox"}

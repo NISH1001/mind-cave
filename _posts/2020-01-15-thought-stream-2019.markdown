@@ -8,6 +8,8 @@ tags: writing life reading essay
 subtitle: "2019 was a full on rollercoaster ride, most of which were going downhill and experiencing strong g-force."
 comments: true
 header-img: "img/post-headers/2020-01-15-thoughts-2019.jpg"
+image: "img/post-headers/2020-01-15-thoughts-2019.jpg"
+bigimg: "img/post-headers/2020-01-15-thoughts-2019.jpg"
 ---
 
 ![Harvest Moon](/img/post-headers/2020-01-15-thoughts-2019.jpg){:class="paradox-center"}  
@@ -159,10 +161,10 @@ Anyway, feel free to provide feedback. If not, do have a look at the **Other Con
 
 
 ## Other Contents I Loved Reading 
-- [Breaking Out of The Loop](https://www.nishanpantha.com.np/writing/breaking-out-of-loop.html){:class="paradox"}
+- [Breaking Out of The Loop](/writing/breaking-out-of-loop.html){:class="paradox"}
 - [Asimov’s Empire, Asimov’s Wall](https://www.publicbooks.org/asimovs-empire-asimovs-wall/){:class="paradox"}
 - [The Eccentric and Ingenious Father of the Atomic Bomb, J. Robert Oppenheimer](https://medium.com/cantors-paradise/the-ingenious-eccentric-father-of-the-atomic-bomb-ba012f620454){:class="paradox"}
-- [Kafkaesque](https://www.nishanpantha.com.np/writing/kafkaesque.html){:class="paradox"}
+- [Kafkaesque](/writing/kafkaesque.html){:class="paradox"}
 - [Shortness of Life](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/){:class="paradox"}
 - [Why I Keep A Research Blog](http://gregorygundersen.com/blog/2020/01/12/why-research-blog/){:class="paradox"}
 - [Entropy: Why Life Always Seems to Get More Complicated](https://jamesclear.com/entropy){:class="paradox"}

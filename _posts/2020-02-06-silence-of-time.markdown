@@ -43,10 +43,10 @@ As the lyrics hit my psyche hard, I wish I could lie on the grass on top of a hi
 > म समयको मौनता
 
 ## Other Silent Things
-- [Kafkaesque](https://www.nishanpantha.com.np/writing/kafkaesque.html){:class="paradox"}
+- [Kafkaesque](/writing/kafkaesque.html){:class="paradox"}
 - [Shortness of Life](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/){:class="paradox"}
 - [The Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis){:class="paradox"}
 - [A Guide To Worrying](https://www.youtube.com/watch?v=k5RH3BdXDOY){:class="paradox"}
 - [Lessons from A Late-Bloomer](https://medium.com/@Steven_Z/late-bloomers-fece788db69b){:class="paradox"}
-- [Nowhere and Somewhere](https://www.nishanpantha.com.np/writing/nowhere-somewhere.html){:class="paradox"}
+- [Nowhere and Somewhere](/writing/nowhere-somewhere.html){:class="paradox"}
 - [Look On Down From The Bridge - Mazzy Star](https://www.youtube.com/watch?v=g41FFmNU66U){:class="paradox"}

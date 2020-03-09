@@ -8,6 +8,8 @@ tags: writing life memoir change
 subtitle: "Life is beautiful and joyous during childhood. As children, we think we can conquer the world, but somewhere between childhood and adulthood, our enthusiasm to dream big are squashed."
 comments: true
 header-img: "img/post-headers/2019-06-16-remembrance.jpg"
+image: "img/post-headers/2019-06-16-remembrance.jpg"
+bigimg: "img/post-headers/2019-06-16-remembrance.jpg"
 ---
 
 Remember the time when you were out there on a cricket field, wicket-keeping and suddenly your mouth bled like someone invisible is sipping life right from you?  
@@ -19,7 +21,7 @@ Remember the time when your parents brought you a new computer without letting y
 Remember the time when you looked up into the clouds and contemplated things for the first time?  
 
 
-Remember the time when you were sad for the first time because you were hopeless on things [you didn't have control over](http://www.nishanpantha.com.np/writing/choices.html){:class="paradox"}?  
+Remember the time when you were sad for the first time because you were hopeless on things [you didn't have control over](/writing/choices.html){:class="paradox"}?  
 
 
 Remember the time when you returned home from school, with an empty stomach because getting money was hard?  
@@ -64,12 +66,12 @@ Well! Sometimes it gets shaken by crises heightened by some form of cosmic vibra
 The time is different now. 
 You are to hit your mid-20s and feel like you are having a mid-life crisis. That's a bit early I suppose. You think you have had it enough. 
 But then you aren't losing hope, I know. Hang in there. Explore. Keep on experiencing the world around you. 
-Don't be [disappointed](http://www.nishanpantha.com.np/writing/disappointment.html){:class="paradox"}. 
+Don't be [disappointed](/writing/disappointment.html){:class="paradox"}. 
 Everything will be fine! Just have trust in me. I am waiting for your letter somewhere in the near future. Till then! Sayonara!
 
 ## Other Entities You Might Remember, Perhaps!
 - [1][panim](https://github.com/NISH1001/panim){:class="paradox"}
 - [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo){:class="paradox"}
 - [The "Self" Is Contagious](https://www.youtube.com/watch?v=KzbxVnZmfZw){:class="paradox"}
-- [Disappointment](http://www.nishanpantha.com.np/writing/disappointment.html){:class="paradox"}
+- [Disappointment](/writing/disappointment.html){:class="paradox"}
 - [How To Know If You’ll Live Your Dreams](https://medium.com/@benjaminhardy/heres-how-to-know-if-you-re-going-to-live-your-dreams-1ecf65b92e60){:class="paradox"}

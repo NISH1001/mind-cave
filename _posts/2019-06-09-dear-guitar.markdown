@@ -8,6 +8,8 @@ tags: poetry music guitar emotion
 subtitle: " An ode to my guitar written when I was in Amman, Jordan, feeling stressed from work and missing the guitar."
 comments: true
 header-img: "img/post-headers/2019-06-09-dear-guitar.jpg"
+image: "img/post-headers/2019-06-09-dear-guitar.jpg"
+bigimg: "img/post-headers/2019-06-09-dear-guitar.jpg"
 ---
 
 Dear Guitar,  
@@ -145,6 +147,6 @@ Then you can unleash that rage!
   
   
 ## Other Poems I Wrote
-- [Tonight](http://www.nishanpantha.com.np/poetry/tonight.html){:class="paradox"}
-- [Sometimes](http://www.nishanpantha.com.np/poetry/sometimes.html){:class="paradox"}
-- [Haunted Streets](http://www.nishanpantha.com.np/poetry/haunted-streets.html){:class="paradox"}
+- [Tonight](/poetry/tonight.html){:class="paradox"}
+- [Sometimes](/poetry/sometimes.html){:class="paradox"}
+- [Haunted Streets](/poetry/haunted-streets.html){:class="paradox"}

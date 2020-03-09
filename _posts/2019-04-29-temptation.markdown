@@ -8,6 +8,8 @@ tags: writing life
 subtitle: "Everyone has their part of being happy and sad at the same time. I guess, we are all inevitable..."
 comments: true
 header-img: "img/post-headers/2019-04-29-temptation.jpg"
+image: "img/post-headers/2019-04-29-temptation.jpg"
+bigimg: "img/post-headers/2019-04-29-temptation.jpg"
 ---
 { Picture: Captured by Me(Paradox) at Dead Sea, Jordan, 2019 }
 

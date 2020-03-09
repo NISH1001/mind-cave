@@ -8,6 +8,8 @@ tags: writing life
 subtitle: "Being excited and scared at the same time of uncertainties that hold us, that fix us to positions we may never able to calculate of our 'self' — that makes my life ticking, your life moving slowly"
 comments: true
 header-img: "img/post-headers/2019-08-07-inevitableness-life.jpg"
+image: "img/post-headers/2019-08-07-inevitableness-life.jpg"
+bigimg: "img/post-headers/2019-08-07-inevitableness-life.jpg"
 ---
 
 ![Let It Be](/img/post-headers/2019-08-07-inevitableness-life.jpg){:class="paradox-center"}  
