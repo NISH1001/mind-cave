@@ -19,7 +19,7 @@ bigimg: "img/post-headers/2020-04-03-wavering-thoughts.jpg"
 
 > April 03, 2020. Been almost 2 weeks with the lockdown due to COVID-19. It’s scary. The virus has a growth rate of almost 2. That means, it grows exponentially.
 
-I have been trying to refrain myself from "negative" thoughts, not writing my thoughts into any journal entry or notes. 
+I have been trying to refrain myself from [negative](https://www.youtube.com/watch?v=32MiAPR2S4g){:class="paradox"} thoughts, not writing my thoughts into any journal entry or notes. 
 I am experimenting on how I can sedate my anxieties and crises. Right now Sisan Baniya’s [vlog](https://youtu.be/VOp01zZwSGg?t=1549) is being played in the background. 
 These past few weeks I had been trying to focus myself on learning new things, reading good contents, and above all focusing my research on computer vision for the startup I am currently engaged in. 
 Me and my colleague were able to implement a paper from scratch for detecting table-like structure from a document image. 
@@ -32,11 +32,11 @@ Other than that nothing’s new.
 Oh yeah! I have started doing calisthenics again. 
 I have form a “proper” habit of going to bed early and waking up early. 
 I think that’s good for me, especially with the lockdown in place. 
-I was planning to start my personal newsletter (for which I had started compiling thingg but failing once again!). 
+I was planning to start my personal newsletter (for which I had started compiling things but failed once again!). 
 I guess just like other things, it will be procrastinated!
 
 
-I have been partly successful in not “overthinking” much. 
+I have been partly successful in not [overthinking](https://www.youtube.com/watch?v=pwhsXSh5OHI){:class="paradox"} much. 
 I guess. Yeah, I guess! That’s how life has been. 
 Just guessing about the unknowns, how it is going to turn out in future times to come looking back at which I might have some other type of interpretation. 
 Just imagine yourself in a future version of your own “self” that’s writing about the past. 
@@ -55,4 +55,4 @@ Whenever I start writing, these sorts of thoughts just keep on flowing like ther
 - ["Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4){:class="paradox"}
 - [Inevitableness of Life]({{site.baseurl}}/writing/inevitaleness-life.html){:class="paradox"}
 - [Kabhi Kabhie Mere Dil Mein ](https://www.youtube.com/watch?v=BB6KvXQx090){:class="paradox"}
-
+- [The Mind - Alan Watts](https://www.youtube.com/watch?v=emHAoQGoQic){:class="paradox"}
