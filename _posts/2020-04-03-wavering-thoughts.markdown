@@ -2,7 +2,7 @@
 layout: post
 title:  "Wavering Thoughts"
 date:   2020-04-03 00:00:00 +0545
-last_edited_on:   2020-04-03 00:00:00 +0545
+last_edited_on:   2020-04-04 00:00:00 +0545
 categories: writing
 tags: writing life thoughts existential-crisis
 subtitle: "Another month, yet another Wavering thoughts."
@@ -38,12 +38,12 @@ I guess just like other things, it will be procrastinated!
 
 I have been partly successful in not [overthinking](https://www.youtube.com/watch?v=pwhsXSh5OHI){:class="paradox"} much. 
 I guess. Yeah, I guess! That’s how life has been. 
-Just guessing about the unknowns, how it is going to turn out in future times to come looking back at which I might have some other type of interpretation. 
+Just guessing about the unknowns, how it is going to be in future times to come, looking back at which I might have some other type of interpretation. 
 Just imagine yourself in a future version of your own “self” that’s writing about the past. 
 Your future and the past getting tangled in some mysterious ways. 
 That’s what I feel about writing. 
 It has been a way of my life I guess, since I have almost no one to talk to that can just sit here right beside me and just listen; listen like there’s no tomorrow. 
-Like the world’s gonna end a nuclear apocalypse. 
+Like the world’s gonna end in a nuclear apocalypse. 
 Whenever I start writing, these sorts of thoughts just keep on flowing like there’s an uncanny river being blocked by walls of wavering stones! I guess I am starting to waver now, drifting in a rabbit hole of life being fragmented among the vastness.
 
 
