@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Tags: "/tags"
   Resources:
-    - Bits and Paradoxes: "https://www.nishanpantha.com.np/"
-  Author's home: "https://www.nishanpantha.com.np/"
+    - Bits and Paradoxes: "https://nish1001.github.io/"
+  Author's home: "https://nish1001.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
