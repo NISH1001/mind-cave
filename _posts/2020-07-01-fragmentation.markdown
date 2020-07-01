@@ -18,7 +18,7 @@ bigimg: "img/post-headers/2020-07-01-fragmentation.jpg"
 [deviantart](https://www.deviantart.com/nishparadox/art/Fragmentation-847329446)
 
 ---
-The poem is an ode to absurdly fragmentated reality of mine.
+The poem is an ode to absurdly fragmented reality of mine.
 
 ---
 
