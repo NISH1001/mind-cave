@@ -22,6 +22,9 @@ The poem is an ode to absurdly fragmentated reality of mine.
 
 ---
 
+Currently it's about to hit 10pm. I am listening to **Space Age Love Song** by **A Flock Of Seagulls**.
+
+
 I was feeling lonely today. Yesterday night I had another anxiety attack. 
 This morning I had a terrible headache. So, I had to take a leave from work to fix myself up. 
 Half of "today" passed by in fragmented tasks of reading, playing guitar and contemplating things, yet again. 
@@ -54,7 +57,7 @@ Does it matter?
 Sound of falling water  
 Is empty  
 But I hear my guitar  
-Moaning. Lonely.
+Moaning. Lonely.  
 A red bottle  
 Full of fluctuating dreams  
 Crowded skies  
@@ -69,12 +72,12 @@ Here and there
 Somewhere. Nowhere.  
 Missing aura  
 Someone's air  
-Bird in murmuration  
+Birds in murmuration  
 Trapped at the orange sky  
 One slides left  
 Others follow in haste.  
 My eyes in temptation  
-Fragmentation  
 Dispersion.  
+Fragmentation.  
 
 ---
