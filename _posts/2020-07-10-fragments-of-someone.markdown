@@ -40,17 +40,17 @@ I am not overthinking right now, but contemplating on this. What made Sushi sudd
 
 
 
-Life surely is weird. At one moment someone (both Aurora and Sushi) is right there, present and prescient. Another moment...BOOM, a pulsating star explodes into a supernova. All you are left is the background radioactive memories; you just have to take a peek with caution, otherwise you will be left with empty floating specks of dust.
+Life surely is weird. At one moment someone (both Aurora and Sushi) is right there, present and prescient. Another moment...BOOM, a pulsating star explodes into a supernova. All you are left is the background radiation of memories; you just have to take a peek with caution, otherwise you will be left with empty floating specks of dust.
 
 
 
 I miss both of them now. I wish I could talk to anyone about this. But then, I might be dead or alive. Whatever it is, these words are all I have got, a living abstraction of someone, a wonderful cosmic entity whose nebulous existence shall thrive as a form of energy.
 
 
-Maybe “missing someone” is inherent in the nature of cosmic entities like us. But it’s surely awkward because I wasn't like this before. Somewhere encountering Sushi had made me sfot which was highly catalyzed by Aurora. Now I am confused… 
+Maybe “missing someone” is inherent in the nature of cosmic entities like us. But it’s surely awkward because I wasn't like this before. Somewhere encountering Sushi had made me soft which was highly catalyzed by Aurora. Now I am confused… 
 
 
 I am confused because I am remembering both of them. Is this even normal? What emotions are these? Perhaps, I have always been confused about life and things that come after.
 
 
-Nevertheless, whatever it is, I wish it to pass soon for I cannot live with these vague anxieties always. I have to find the spaceship and head back to my galaxy. Perhaps, there isn’t that galaxy in this universe. Perhaps, I have to find a portal to another universe. Perhaps. Maybe. Let’s see.
+Nevertheless, whatever it is, I wish it to pass soon for I cannot live with these vague anxieties always. I have to find the spaceship and head back to my galaxy. Perhaps, there isn’t my galaxy I am expecting in this universe. Perhaps, I have to find a portal to another universe. Perhaps. Maybe. Let’s see.
