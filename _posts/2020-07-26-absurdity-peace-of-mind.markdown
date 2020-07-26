@@ -47,3 +47,8 @@ Just zoom into yourself. You have a [[Self]] inside you, something that hasn't c
 
 
 Things feel amazing when I discover something new. A guitar piece that connects directly to your soul. A thought from the ancient philosophy which you've been thinking for some time now. Or probably you have been having that thought for a very long time. Life is short. You know it. I know it. We know it. So, how to make use of this life? Does it even matter? Just think about you again. Now zoom into your mind-cave. Lust, love, hatred, dislike, pessimism, optimism, skills, philosophical dilemmas, empty room, growing hair, beating heart, sinus, hernia, shaking hands, blessing, closeness to people, encounters with strangers, strangers with deep respect, Deep Meaningful Conversations, hope that it's going to be alright, fragmented reality, dispersed attention, attenuating memories, vanishing ideas, energy to be born. Just think about everything. Feel it and you will realize that whole existence merges into a distinct superposition of Life, Absurdity and Peace of mind.
+
+---
+
+
+[Someone who is failing to grasp time and existence]
