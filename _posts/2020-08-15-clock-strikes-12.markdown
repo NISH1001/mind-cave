@@ -45,10 +45,10 @@ You are somewhere, reading book. May  be you are at hilly terrain. Maybe you ar
 
 ### The clock strikes 12.
 You just passed (or happened to) high school. Maybe you failed. That's okay!
-Now, you have no fucking clue about your life tangled with aimlessness. "What the fuck I am supposed to do now?", you question to yourself. You try for engineering. Perhaps, you try for some other education standards set on default values in the menu. Anyway you proceed. So, cheers to that.
+Now, you have no fucking clue about your life tangled with aimlessness. **"What the fuck I am supposed to do now?"**, you question to yourself. You try for engineering. Perhaps, you try for some other education standards set on default values in the menu. Anyway you proceed. So, cheers to that.
 
 ### The clocks strikes 12. You are in.
-You are at new premise of 'education', excited and fearful at the same time. You think, "maybe it's what I have wanted...". Confused, you are.
+You are at new premise of 'education', excited and fearful at the same time. You think, **"maybe it's what I have wanted..."**. Confused, you are.
 Nervousness kicks in. Time passes by oscillating here and there.
 
 ### The clocks strikes 12. Crisis kicks in.
