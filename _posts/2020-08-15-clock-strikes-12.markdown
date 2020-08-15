@@ -4,7 +4,7 @@ title:  "The Clock Strikes 12"
 date:   2020-08-15 02:23:00 +0545
 last_edited_on:   2020-08-15 00:00:00 +0545
 categories: writing
-tags: writing life goals
+tags: writing life goals self
 subtitle: ""
 comments: true
 header-img: "img/post-headers/2020-08-15-clock-strikes-12.jpg"
