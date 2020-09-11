@@ -1,16 +1,20 @@
 ---
 layout: post
 title:  "Life's a constant battle"
-date:   2020-09-06 19:05:00 +0545
-last_edited_on:   2020-09-06 20:1k:00 +0545
+date:   2020-09-11 07:28:00 +0545
+last_edited_on:   2020-09-11 07:30:00 +0545
 categories: writing
 tags: writing suicide life emotion
-subtitle: "Having a lot of suicidal thoughts. Noone's around to talk to. I feel like crying..."
+subtitle: "7:28 in the morning. Sad. Depressed. Having a lot of suicidal thoughts. Noone's around to talk to. I feel like crying..."
 comments: true
 header-img: "img/post-headers/2020-02-06-silence-of-time.jpg"
 image: "img/post-headers/2020-02-06-silence-of-time.jpg"
 bigimg: "img/post-headers/2020-02-06-silence-of-time.jpg"
 ---
+
+
+> "7:28 in the morning. Sad. Depressed. Having a lot of suicidal thoughts. Noone's around to talk to. I feel like crying..."
+
 
 
 Last night freaking parents had another fight. My situation is fucked up. For the whole 15 years there was always some kind of struggles, mostly deep unhealed ones. But seriously! Fuck all this. What’s even the point of trying to do something with life? Everyday...waking up with this unwavering feeling that “today is still anxious” makes me wanna leave everything.  
