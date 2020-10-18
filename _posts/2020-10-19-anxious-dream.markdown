@@ -31,9 +31,9 @@ It felt very weird. I was hesitant to talk to her and touch her. There were time
 
 It felt weird….like how dreams are always weird.... There wasn’t element of romanticism or so. But I felt she was distant..aloof while we walked….I think I tried my best to hold the conversation. There was a point where she talked about switching platforms for dating. Not sure. I can’t possibly be sure of the dream that is just replaying some of the experiences from the subconscious.
 
-The whole dream felt like a stranger’s reunion. This is perhaps catalyzed by the SMS I sent her a few days ago saying **_“Take Care”_**. Brains are weird goo. All our wishes simulated for the sake of getting those doses of life steroids which we can’t possibly have in real life. The fact that she was wearing that dress might sum up my desire to have **that walk **she had promised last time during Feb 2020.
+The whole dream felt like a stranger’s reunion. This is perhaps catalyzed by the SMS I sent her a few days ago saying **_“Take Care”_**. Brains are weird goo. All our wishes simulated for the sake of getting those doses of life steroids which we can’t possibly have in real life. The fact that she was wearing that dress might sum up my desire to have **that walk** she had promised last time during Feb 2020.
 
-As I sit right here on my bed, with the warmth of this brown blanket, I am a little shivering. This anxiety is strange. I hadn’t have so much chilling sensation in a long time.
+As I sit right here on my bed, with the warmth of this brown blanket, I am shivering a little. This anxiety is strange. I hadn’t have so much chilling sensation in a long time.
 
 4:30 am. 
 
@@ -44,6 +44,8 @@ I am having another short-deep existential crises right now. This is not the usu
 > **_“Nish! You are a sucker. A loser. A hopelessly romantic lover that’s still lingering with the past. You can’t move on even for the next few years. You will not. You still yearn for romantic dates. You still wish to do something about this ‘love’ thing. But get the fuck up. Grow up. It’s life. And being ‘you’ is hard I know. But don’t be harsh on yourself. Why the fuck do you care about love and shit?”_**
 
 I am not sure. I am not sure. I am not sure. What the fuck am I doing with my life? Nothing matters!
+
+**This whole life seems to be an absurdly elaborated dream I can only hink about.**
 
 4:37 am.  
 I should head towards roof now for solitude and coffee and more “**over nurtured feelings”.**
