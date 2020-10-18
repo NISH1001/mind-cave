@@ -45,7 +45,7 @@ I am having another short-deep existential crises right now. This is not the usu
 
 I am not sure. I am not sure. I am not sure. What the fuck am I doing with my life? Nothing matters!
 
-**This whole life seems to be an absurdly elaborated dream I can only hink about.**
+**This whole life seems to be an absurdly elaborated dream I can only think about.**
 
 4:37 am.  
 I should head towards roof now for solitude and coffee and more “**over nurtured feelings”.**
