@@ -5,7 +5,7 @@ date:   2020-11-10 19:15:00 +0545
 last_edited_on:   2020-11-10 19:18:00 +0545
 categories: writing 
 tags: writing life loneliness story sci-fi hope
-subtitle: "Of course, they say 'money doesn't buy you happiness'"
+subtitle: "I am huring through space..."
 comments: true
 header-img: "img/post-headers/2020-11-10-para-laijau.jpg"
 image: "img/post-headers/2020-11-10-para-laijau.jpg"
