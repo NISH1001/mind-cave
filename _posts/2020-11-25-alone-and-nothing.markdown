@@ -4,7 +4,7 @@ title:  "Alone and nothing"
 date:   2020-11-25 20:50:00 +0545
 last_edited_on:   2020-11-25 20:50:00 +0545
 categories: writing
-tags: wring loneliness solitude  responsibility absurdity
+tags: writing loneliness solitude  responsibility absurdity
 subtitle: "...it does seem that this “not-doing-anything-staring-at-the-void” has been able to curb my overthinking."
 comments: true
 header-img: "img/post-headers/2020-11-16-the-void.jpg"
