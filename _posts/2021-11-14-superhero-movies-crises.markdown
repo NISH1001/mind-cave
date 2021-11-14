@@ -32,7 +32,7 @@ I don't know. **Eternals** is probably the least favorite MCU movie of mine, so 
 
 Currently I am listening to [Echoes - Pink Floyd](https://www.youtube.com/watch?v=KBca3xf-j3o&t=780s) and my thoughts are heightened to the point  that deep existential crisis is taking over me.
 
-I had made a comment on a [YouTube video](https://www.youtube.com/watch?v=BUW5kMFebvg) about this movie's failure and week points:
+I had made a comment on a [YouTube video](https://www.youtube.com/watch?v=BUW5kMFebvg) about this movie's failure and weak points:
 
 > I just came back from the cinema hall to watch the Eternals. My disappointment correlates to how the fanbase grows in age/maturity about superhero movies (especially MCUs). I loved the existential dreads I get after watching MCU movies. But Eternals heightened that drastically. So that's a plus point.
 
