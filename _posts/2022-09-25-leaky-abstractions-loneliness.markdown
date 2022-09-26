@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Leaky abstractions and Loneliness"
-date:   2022-09-25 20:00:00 -0600
-last_edited_on:   2022-09-25 20:30:00 -0600
+date:   2022-09-25 13:00:00 -0600
+last_edited_on:   2022-09-25 20:00:00 -0600
 categories: writing
 tags: writing life love time existential-crisis introspection suffering loneliness
 subtitle: "Relationship grows stronger wit leakier abstractions..."
