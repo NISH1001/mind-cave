@@ -4,7 +4,7 @@ title:  "High Hopes"
 date:   2020-08-18 19:23:00 +0545
 last_edited_on:   2020-08-18 20:00:00 +0545
 categories: writing
-tags: writing life self hopes satisfaction
+tags: writing life self hope satisfaction
 subtitle: ""
 comments: true
 header-img: "img/post-headers/2020-08-18-high-hopes.jpg"
