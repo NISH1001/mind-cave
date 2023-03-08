@@ -2,7 +2,7 @@
 layout: post
 title:  "A Guide to Worrying"
 date:   2023-03-07 09:00:00 +1200
-last_edited_on:   2023-03-07 
+last_edited_on:   2023-03-08
 categories: writing
 tags: writing  existential-crisis
 subtitle: "Being constantly dreaded kinda sucks."
@@ -37,7 +37,8 @@ Being vulnerable means, you won't get to experience life at its ultimate terror-
 
 But, this also means that you are uniquely regressing to your own self. That the projection of the self you see of yourself, at its absolute, hauntingly, feels more appealing to yourself. I don't know if these words make any sense to anyone but myself.
 
-
 Sometimes I feel like I don't give a freaking damn about the angsty-spiraling emotions. And let myself lose in the "go with the flow" state, to wherever I can sail my boat. In hindsight, I come to realize that there's no flow either. It's just a whirlpool in a still lake.
 
+It just feels absurdly injustice to my "self" that I have to remind myself often about letting go of everything. That I'm just an observer passing through this reality. That it's naturally "Nish"y be like this.
 
+But I don't know what everything else feels like. I've been consumed by the banality too long, for too many times, to the point the insanity itself feels like a sane version of me. The constant wring, letting go of my thoughts.
