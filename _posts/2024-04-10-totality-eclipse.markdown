@@ -2,7 +2,7 @@
 layout: post
 title:  "Totality; eclipse"
 date:   2024-04-10 09:00:00 +1200
-last_edited_on:   2024-04-10
+last_edited_on:   2024-04-11
 categories: writing
 tags: writing life universe
 subtitle: "Experience on total solar eclipse"
@@ -40,7 +40,7 @@ Like... it's so beautiful and absurd to imagine because the orbital plane betwee
 
 Yosh! Enough of Nish's lecture on astronomy. Enough about evoking existential crisis to you, THE READERS.
 
-Basically, I was adamant of going to see the totality no matter what. That's why, I had decided that even if noone is going, I'd just drive alone and live that experience. I told everyone in the group (11 I think) and created excel sheet to track who will be going, where to go, weather conditions and all the uncertainty. After a lot of fidgetting around, we were finally 5 of us and we drove to Arkansas to see the totality.
+Basically, I was fixated of going to see the totality no matter what. That's why, I had decided that even if noone is going, I'd just drive alone and live that experience. I told everyone in the group (11 I think) and created excel sheet to track who will be going, where to go, weather conditions and all the uncertainty. After a lot of fidgetting around, we were finally 5 of us and we drove to Arkansas to see the totality.
 
 It was the first time when I took control of planning the trip and all. It was definitely some "feel-good" opportunity to make other people realize that I can be dependable as well. I just had right support from good friends and peers, and they trusted me with the decision to go wherever I chose. It was also after a long time that I drove for long hours, (more than 4 hours?) one way and made me realize that I can drive safely as well like I always do (just flexing myself :/). Let me try to to do a very brief explainer on how the trip was (travel and all, not the totality).
 
