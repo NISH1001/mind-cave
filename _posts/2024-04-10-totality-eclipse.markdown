@@ -142,3 +142,4 @@ It's hard to not think about all the things that happening in our lives, associa
 * [0] - Maybe **"focused"** would be a better phrasing
 * [1] - I don't have any words to describe TBH. It was so much emotions running through all at once.
 * [2] - On a tangent, I miss the **octopus lady**. I wonder how she felt looking at the eclipse. Whether she got to experience the totality. I can only wish her good vibe. I love you **pyari**. And hope someday you get to read this by accident. :)
+* [3] - So grateful for everyone who made the trip and the travel a success, fun and more tolerating. :)
