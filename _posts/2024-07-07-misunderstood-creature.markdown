@@ -20,6 +20,7 @@ bigimg: "img/post-headers/2024-07-07-misunderstood-creature.jpg"
 
 ---
 
+> I know if I reread and re-evaluate this stream of thought, I might have less harsh tone than what it is. It's all coming from a very aching heart. Not blaming anyone. Just Nish being harsh on himself. That's it. No frustration. No anger. Just heart-ache. And the heart-aches are the worst kinds of pain.
 
 
 (At a lake. Drove an hour to Guntersville Lake. Alone myself, tearing up. My heart is broken truly, just like that, crumbled into pieces. Crying so much…)
